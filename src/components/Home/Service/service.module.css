@@ -1,0 +1,11 @@
+.cafe{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../../../images/cafe.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 586px;
+    height: 270px;
+    display: grid;
+    align-content: end;
+    text-align: start;
+    padding: 40px 30px;
+}

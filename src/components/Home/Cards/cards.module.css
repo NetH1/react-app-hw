@@ -1,0 +1,12 @@
+.card{
+    background: url('../../../images/cardtennis.png') no-repeat ;
+    background-size: cover;
+    width: 376px;
+    height: 450px;
+    background-position: center;
+    color: #fff;
+    display: grid;
+    align-content: end;
+    text-align: center;
+    padding-bottom: 40px;
+}
